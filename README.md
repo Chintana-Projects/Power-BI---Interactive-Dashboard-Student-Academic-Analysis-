@@ -18,4 +18,21 @@
    
     link :https://www.kaggle.com/datasets/kundanbedmutha/student-performance-dataset?resource=download
 
-   
+6. Some of the features involved :
+
+   * The user can see total students ,their average Science,Math and English Score.
+     
+   * The user will be able find the above based the criteria's like age,gender,travel time, parent's education and the type of school they go to(public/private).
+  
+   * The use of different graphs is being made to depict relations like
+
+          - Gender VS Average Score
+
+          - Average Score VS Final Grade
+
+          - Attendance VS Grade
+
+          - Overall Score VS Internet Acess(yes/no)
+     
+
+      
